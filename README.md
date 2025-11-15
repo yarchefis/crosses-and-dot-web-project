@@ -1,4 +1,4 @@
-# Krosses and Dot Web Project
+# crosses and Dot Web Project
 
 **First web project from Yandex Practicum, written in 2023.**  
 **Первый веб-проект с Яндекс Практикума, написан в 2023 году.**
@@ -37,12 +37,12 @@ My very first web project created during Yandex Practicum courses. A simple prac
 
 - Clone the repository:  
 ```bash
-git clone https://github.com/yarchefis/krosses-and-dot-web-project.git
+git clone https://github.com/yarchefis/crosses-and-dot-web-project.git
 ```
  - Open the `index.html` file in any browser.
 
 Or view online:
-[https://yarchefis.github.io/krosses-and-dot-web-project/](https://yarchefis.github.io/krosses-and-dot-web-project/)
+[https://yarchefis.github.io/crosses-and-dot-web-project/](https://yarchefis.github.io/crosses-and-dot-web-project/)
 
 take a look at my website. There are even more interesting projects there    
 загляните ко мне на сайт. Там еще больше интересных проектов    
